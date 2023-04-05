@@ -1,5 +1,6 @@
-# Idian-start-up-ecosystem
+# Indian-start-up-ecosystem
 Analysis of the Indian startup ecosystem from 2018 to 2021
+
 INTRODUCTION
 India is the 3rd largest startup hub in the world. The initiative of start-ups was launched by the Indian government in 2016. The objective was to boost startup culture and create an entrepreneurial environment in India. Startups contribute significantly to the nation’s economic growth by introducing innovation and diversity into the nation’s economic infrastructure.
 This project aims to provide visualizations and information into the trends of the Indian start-up ecosystem from 2018 to 2021.
@@ -17,6 +18,7 @@ QUESTIONS
 
 HYPOTHESIS
 NULL HYPOTHESIS: Tech companies are more likely to access investment funds.
+
 ALTERNATE HYPOTHESIS: Tech companies are less likely to access investment funds.
 
 DATA UNDERSTANDING
