@@ -17,6 +17,7 @@ QUESTIONS
 9.	Top 5 sectors in Bangalore per number of startups
 
 HYPOTHESIS
+
 NULL HYPOTHESIS: Tech companies are more likely to access investment funds.
 
 ALTERNATE HYPOTHESIS: Tech companies are less likely to access investment funds.
